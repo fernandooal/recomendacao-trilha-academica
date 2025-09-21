@@ -100,3 +100,14 @@ perfil(desenvolvimento_mobile, comunicacao, 3).
 perfil(desenvolvimento_mobile, ingles_tecnico, 3).
 perfil(desenvolvimento_mobile, matematica_estatistica, 2).
 
+% ------------------------------------------------------------------------------
+% Perguntas para o Usuário
+% pergunta(numero, 'Texto da pergunta?', caracteristica).
+% ------------------------------------------------------------------------------
+
+pergunta(1, 'Você tem afinidade com matemática e estatística?', matematica_estatistica).
+pergunta(2, 'Você gosta de programar e desenvolver algoritmos?', programacao_algoritmos).
+pergunta(3, 'Você tem facilidade para resolver problemas complexos?', resolucao_problemas).
+pergunta(4, 'Você se considera uma pessoa com pensamento lógico?', pensamento_logico).
+pergunta(5, 'Você tem interesse em pesquisa e descoberta científica?', curiosidade_cientifica).
+pergunta(6, 'Você tem boa comunicação e apresentação de ideias?', comunicacao).
