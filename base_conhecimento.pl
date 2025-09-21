@@ -70,3 +70,33 @@ perfil(seguranca_da_informacao, curiosidade_cientifica, 3).
 perfil(seguranca_da_informacao, comunicacao, 3).
 perfil(seguranca_da_informacao, ingles_tecnico, 4).
 
+% Ciência de Dados
+perfil(ciencia_de_dados, matematica_estatistica, 5).
+perfil(ciencia_de_dados, programacao_algoritmos, 5).
+perfil(ciencia_de_dados, resolucao_problemas, 4).
+perfil(ciencia_de_dados, curiosidade_cientifica, 4).
+perfil(ciencia_de_dados, pensamento_logico, 4).
+perfil(ciencia_de_dados, comunicacao, 4).
+perfil(ciencia_de_dados, ingles_tecnico, 3).
+perfil(ciencia_de_dados, trabalho_autonomo, 3).
+
+% Redes e Infraestrutura
+perfil(redes_e_infraestrutura, pensamento_logico, 5).
+perfil(redes_e_infraestrutura, resolucao_problemas, 5).
+perfil(redes_e_infraestrutura, atencao_detalhes, 4).
+perfil(redes_e_infraestrutura, trabalho_autonomo, 4).
+perfil(redes_e_infraestrutura, programacao_algoritmos, 3).
+perfil(redes_e_infraestrutura, comunicacao, 3).
+perfil(redes_e_infraestrutura, matematica_estatistica, 2).
+perfil(redes_e_infraestrutura, ingles_tecnico, 3).
+
+% Desenvolvimento Mobile
+perfil(desenvolvimento_mobile, programacao_algoritmos, 5).
+perfil(desenvolvimento_mobile, design_visual, 4).
+perfil(desenvolvimento_mobile, criatividade, 4).
+perfil(desenvolvimento_mobile, atencao_detalhes, 4).
+perfil(desenvolvimento_mobile, trabalho_equipe, 3).
+perfil(desenvolvimento_mobile, comunicacao, 3).
+perfil(desenvolvimento_mobile, ingles_tecnico, 3).
+perfil(desenvolvimento_mobile, matematica_estatistica, 2).
+
