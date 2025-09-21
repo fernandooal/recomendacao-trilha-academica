@@ -111,3 +111,9 @@ pergunta(3, 'Você tem facilidade para resolver problemas complexos?', resolucao
 pergunta(4, 'Você se considera uma pessoa com pensamento lógico?', pensamento_logico).
 pergunta(5, 'Você tem interesse em pesquisa e descoberta científica?', curiosidade_cientifica).
 pergunta(6, 'Você tem boa comunicação e apresentação de ideias?', comunicacao).
+pergunta(7, 'Você tem afinidade com design visual e interfaces?', design_visual).
+pergunta(8, 'Você se considera uma pessoa criativa?', criatividade).
+pergunta(9, 'Você presta atenção aos detalhes em seu trabalho?', atencao_detalhes).
+pergunta(10, 'Você prefere trabalhar em equipe?', trabalho_equipe).
+pergunta(11, 'Você prefere trabalhar de forma autônoma e independente?', trabalho_autonomo).
+pergunta(12, 'Você tem facilidade com inglês técnico?', ingles_tecnico).
