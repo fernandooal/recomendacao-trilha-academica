@@ -50,3 +50,23 @@ perfil(inteligencia_artificial, ingles_tecnico, 4).
 perfil(inteligencia_artificial, trabalho_autonomo, 3).
 perfil(inteligencia_artificial, comunicacao, 2).
 
+% Desenvolvimento Web
+perfil(desenvolvimento_web, programacao_algoritmos, 5).
+perfil(desenvolvimento_web, design_visual, 4).
+perfil(desenvolvimento_web, criatividade, 4).
+perfil(desenvolvimento_web, atencao_detalhes, 4).
+perfil(desenvolvimento_web, trabalho_equipe, 4).
+perfil(desenvolvimento_web, comunicacao, 3).
+perfil(desenvolvimento_web, matematica_estatistica, 2).
+perfil(desenvolvimento_web, ingles_tecnico, 3).
+
+% Segurança da Informação
+perfil(seguranca_da_informacao, pensamento_logico, 5).
+perfil(seguranca_da_informacao, atencao_detalhes, 5).
+perfil(seguranca_da_informacao, resolucao_problemas, 4).
+perfil(seguranca_da_informacao, trabalho_autonomo, 4).
+perfil(seguranca_da_informacao, programacao_algoritmos, 4).
+perfil(seguranca_da_informacao, curiosidade_cientifica, 3).
+perfil(seguranca_da_informacao, comunicacao, 3).
+perfil(seguranca_da_informacao, ingles_tecnico, 4).
+
