@@ -117,3 +117,20 @@ pergunta(9, 'Você presta atenção aos detalhes em seu trabalho?', atencao_deta
 pergunta(10, 'Você prefere trabalhar em equipe?', trabalho_equipe).
 pergunta(11, 'Você prefere trabalhar de forma autônoma e independente?', trabalho_autonomo).
 pergunta(12, 'Você tem facilidade com inglês técnico?', ingles_tecnico).
+
+% ------------------------------------------------------------------------------
+% Características Definidas
+% ------------------------------------------------------------------------------
+
+caracteristica(matematica_estatistica).
+caracteristica(programacao_algoritmos).
+caracteristica(resolucao_problemas).
+caracteristica(pensamento_logico).
+caracteristica(curiosidade_cientifica).
+caracteristica(comunicacao).
+caracteristica(design_visual).
+caracteristica(criatividade).
+caracteristica(atencao_detalhes).
+caracteristica(trabalho_equipe).
+caracteristica(trabalho_autonomo).
+caracteristica(ingles_tecnico).
