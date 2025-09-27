@@ -15,3 +15,5 @@ todas_perguntas(IDs) :-
 % Lista auxiliar de trilhas
 todas_trilhas(Trilhas) :-
     findall(T, trilha(T, _), Trilhas).
+
+% Testes OK

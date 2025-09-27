@@ -11,3 +11,4 @@ resposta(10, s). % trabalho em equipe
 teste(Recomendacoes) :-
     findall(resposta(ID, R), resposta(ID, R), ListaRespostas),
     recomenda(ListaRespostas, Recomendacoes).
+% Testes OK

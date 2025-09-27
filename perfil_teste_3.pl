@@ -11,3 +11,4 @@ resposta(12, s). % inglês técnico
 teste(Recomendacoes) :-
     findall(resposta(ID, R), resposta(ID, R), ListaRespostas),
     recomenda(ListaRespostas, Recomendacoes).
+% Testes OK
