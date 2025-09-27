@@ -43,3 +43,21 @@ Listar todos os fatos de um tipo:
 ```
 O número após a barra indica o número de argumentos do fato.
 
+Para testar a interface com usuário, carregue a interface:
+```
+[interface_usuario].
+```
+Utilize o comando para iniciar a interface:
+```
+?- iniciar.
+```
+Irá iniciar o questionário, responda com s ou n para sim ou não e aperte o enter:
+```
+Sistema Especialista para Recomendação de Trilha Acadêmica
+_______________________________________________________________
+Responda às perguntas com 's' (sim) ou 'n' (não).
+
+Você tem afinidade com matemática e estatística?
+Resposta (s/n):
+```
+
