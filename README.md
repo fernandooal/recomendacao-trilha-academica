@@ -1,10 +1,17 @@
 # Sistema de Recomendação de Trilhas Acadêmicas
 
-## Alunos
-- Angelo Piovezan Jorgeto
-- Fernando Alonso Piroga da Silva
-- Jafte Carneiro Fagundes da Silva
-- Renato Pestana Gouveia
+### Pontifícia Universidade Católica do Paraná
+### Escola Politécnica - Ciência da Computação
+### Programação Lógica e Funcional
+
+## Professor
+- Frank Coelho de Alcantara
+
+## Alunos (e @github)
+- Angelo Piovezan Jorgeto (**@PJorgeto**)
+- Fernando Alonso Piroga da Silva (**@fernandooal**)
+- Jafte Carneiro Fagundes da Silva (**@cyberfika**)
+- Renato Pestana Gouveia (**@rpgouveia**)
 
 ## Objetivo
 Este projeto implementa um sistema especialista em Prolog para recomendar trilhas acadêmicas com base nas características pessoais e interesses do aluno.
@@ -23,7 +30,7 @@ Este projeto implementa um sistema especialista em Prolog para recomendar trilha
 
 ## Como Executar o Sistema
 
-### 🔧 Requisitos
+### Requisitos
 - SWI-Prolog instalado ([Download aqui](https://www.swi-prolog.org/Download.html))
 
 ### Execução do Programa Principal
